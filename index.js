@@ -2,7 +2,7 @@ const Vinyl = require('vinyl')
 const PluginError = Vinyl.PluginError
 const through = require('through2')
 
-const pluginName = 'gulp-webp-html-nosvg'
+const pluginName = 'gulp-webp-avif-html'
 
 module.exports = function (extensions) {
 	var extensions = ['.jpg', '.png', '.jpeg', '.GIF', '.gif', '.JPG', '.PNG', '.JPEG'];
