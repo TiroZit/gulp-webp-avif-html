@@ -1,6 +1,6 @@
 # gulp-webp-avif-html - fork gulp-webp-html-nosvg
 
-> Gulp extension, replace html element `<img>` to `<picture>` with [`gulp-webp-avif-html`](https://github.com/powerrampage/gulp-avif-webp-html)
+> Gulp extension, replace html element `<img>` to `<picture>` with [`gulp-webp-avif-html`](https://github.com/TiroZit/gulp-webp-avif-html/)
 
 ## Install
 
